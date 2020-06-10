@@ -1,5 +1,5 @@
 # product
-REST application using SpringBoot.
+REST application using Spring Boot.
 
 Available at: https://product-springboot.herokuapp.com/
 
